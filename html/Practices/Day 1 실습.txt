@@ -1,0 +1,195 @@
+┌─(~/03_Health_AI/project/git)────────────────────────────────────────────(electrozone@adminui-MacBookPro-3:s018)─┐
+└─(11:18:05 on main ✭)──> git log --oneline                                                         ──(Mon,Feb09)─┘
+┌─(~/03_Health_AI/project/git)────────────────────────────────────────────(electrozone@adminui-MacBookPro-3:s018)─┐
+└─(11:19:39 on main ✭)──> git diff f64b958 HEAD                                                     ──(Mon,Feb09)─┘
+┌─(~/03_Health_AI/project/git)────────────────────────────────────────────(electrozone@adminui-MacBookPro-3:s018)─┐
+└─(11:22:41 on main ✭)──> git blame README.md                                                       ──(Mon,Feb09)─┘
+┌─(~/03_Health_AI/project/git)────────────────────────────────────────────(electrozone@adminui-MacBookPro-3:s018)─┐
+└─(11:23:49 on main ✭)──> git commit --amend                                                        ──(Mon,Feb09)─
+[main 2103bb1] Create README.md
+ Author: Stella Lee <scyblack61@gmail.com>
+ Date: Fri Feb 6 14:08:25 2026 +0900
+ 1 file changed, 8 insertions(+)
+ create mode 100644 README.md
+┌─(~/03_Health_AI/project/git)────────────────────────────────────────────(electrozone@adminui-MacBookPro-3:s018)─┐
+└─(11:28:06 on main ✭)──> clear                                                                     ──(Mon,Feb09)─
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+┌─(~/03_Health_AI/project/git)────────────────────────────────────────────(electrozone@adminui-MacBookPro-3:s018)─┐
+└─(11:28:20 on main ✭)──> cd ..                                                                     ──(Mon,Feb09)─┘
+┌─(~/03_Health_AI/project)────────────────────────────────────────────────(electrozone@adminui-MacBookPro-3:s018)─┐
+└─(11:28:23)──> mkdir html                                                                          ──(Mon,Feb09)─┘
+┌─(~/03_Health_AI/project)────────────────────────────────────────────────(electrozone@adminui-MacBookPro-3:s018)─┐
+└─(11:28:31)──> cd html                                                                             ──(Mon,Feb09)─┘
+┌─(~/03_Health_AI/project/html)───────────────────────────────────────────(electrozone@adminui-MacBookPro-3:s018)─┐
+└─(11:28:35)──> git status                                                                          ──(Mon,Feb09)─┘
+fatal: not a git repository (or any of the parent directories): .git
+┌─(~/03_Health_AI/project/html)───────────────────────────────────────────(electrozone@adminui-MacBookPro-3:s018)─┐
+└─(11:28:39)──> code .                                                                        128 ↵ ──(Mon,Feb09)─┘
+zsh: command not found: code
+┌─(~/03_Health_AI/project/html)───────────────────────────────────────────(electrozone@adminui-MacBookPro-3:s018)─┐
+└─(11:30:26)──> pwd                                                                           127 ↵ ──(Mon,Feb09)─┘
+/Users/electrozone/03_Health_AI/project/html
+┌─(~/03_Health_AI/project/html)───────────────────────────────────────────(electrozone@adminui-MacBookPro-3:s018)─┐
+└─(13:09:04)──> ls                                                                                  ──(Mon,Feb09)─┘
+hello.html
+┌─(~/03_Health_AI/project/html)───────────────────────────────────────────(electrozone@adminui-MacBookPro-3:s018)─┐
+└─(13:09:10)──> cd ..                                                                               ──(Mon,Feb09)─┘
+┌─(~/03_Health_AI/project)────────────────────────────────────────────────(electrozone@adminui-MacBookPro-3:s018)─┐
+└─(15:31:56)──> cd git                                                                              ──(Mon,Feb09)─┘
+┌─(~/03_Health_AI/project/git)────────────────────────────────────────────(electrozone@adminui-MacBookPro-3:s018)─┐
+└─(15:31:59 on main ✭)──> mkdir html1                                                               ──(Mon,Feb09)─┘
+┌─(~/03_Health_AI/project/git)────────────────────────────────────────────(electrozone@adminui-MacBookPro-3:s018)─┐
+└─(15:32:18 on main ✭)──> cd htmll                                                                  ──(Mon,Feb09)─┘
+cd: no such file or directory: htmll
+┌─(~/03_Health_AI/project/git)────────────────────────────────────────────(electrozone@adminui-MacBookPro-3:s018)─┐
+└─(15:32:23 on main ✭)──> cd html1                                                              1 ↵ ──(Mon,Feb09)─┘
+┌─(~/03_Health_AI/project/git/html1)──────────────────────────────────────(electrozone@adminui-MacBookPro-3:s018)─┐
+└─(15:32:31 on main ✭)──> cd ..                                                                     ──(Mon,Feb09)─┘
+┌─(~/03_Health_AI/project/git)────────────────────────────────────────────(electrozone@adminui-MacBookPro-3:s018)─┐
+└─(15:39:34 on main ✭)──> cd ..                                                                     ──(Mon,Feb09)─┘
+┌─(~/03_Health_AI/project)────────────────────────────────────────────────(electrozone@adminui-MacBookPro-3:s018)─┐
+└─(15:39:36)──> cd /Users/electrozone/03_Health_AI                                                  ──(Mon,Feb09)─┘
+┌─(~/03_Health_AI)────────────────────────────────────────────────────────(electrozone@adminui-MacBookPro-3:s018)─┐
+└─(15:40:01)──> git status                                                                          ──(Mon,Feb09)─┘
+fatal: not a git repository (or any of the parent directories): .git
+┌─(~/03_Health_AI)────────────────────────────────────────────────────────(electrozone@adminui-MacBookPro-3:s018)─┐
+└─(15:40:04)──> mkdir html                                                                    128 ↵ ──(Mon,Feb09)─┘
+┌─(~/03_Health_AI)────────────────────────────────────────────────────────(electrozone@adminui-MacBookPro-3:s018)─┐
+└─(15:40:20)──> cd html                                                                             ──(Mon,Feb09)─┘
+┌─(~/03_Health_AI/html)───────────────────────────────────────────────────(electrozone@adminui-MacBookPro-3:s018)─┐
+└─(15:40:24)──> git status                                                                          ──(Mon,Feb09)─
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	../.DS_Store
+	../git_github.md/
+
+nothing added to commit but untracked files present (use "git add" to track)
+┌─(~/03_Health_AI/html)───────────────────────────────────────────────────(electrozone@adminui-MacBookPro-3:s018)─┐
+└─(15:43:25 on main ✭)──> git switch main                                                           ──(Mon,Feb09)─┘
+Already on 'main'
+Your branch is up to date with 'origin/main'.
+┌─(~/03_Health_AI/html)───────────────────────────────────────────────────(electrozone@adminui-MacBookPro-3:s018)─┐
+└─(16:05:24 on main ✭)──> cd parctices                                                              ──(Mon,Feb09)─
+cd: no such file or directory: parctices
+┌─(~/03_Health_AI/html)───────────────────────────────────────────────────(electrozone@adminui-MacBookPro-3:s018)─┐
+└─(16:07:54 on main ✭)──> cd Practices                                                          1 ↵ ──(Mon,Feb09)─
+┌─(~/03_Health_AI/AI Health Care GitHub/html/Practices)───────────────────(electrozone@adminui-MacBookPro-3:s018)─┐
+└─(16:11:27 on main ✭)──> git add hello.html                                                        ──(Mon,Feb09)─┘
+┌─(~/03_Health_AI/AI Health Care GitHub/html/Practices)───────────────────(electrozone@adminui-MacBookPro-3:s018)─┐
+└─(16:11:40 on main ✚ ✭)──> git commit -m "Hello."                                                  ──(Mon,Feb09)─┘
+[main 05b70aa] Hello.
+ 1 file changed, 13 insertions(+)
+ create mode 100644 html/Practices/hello.html
+┌─(~/03_Health_AI/AI Health Care GitHub/html/Practices)───────────────────(electrozone@adminui-MacBookPro-3:s018)─┐
+└─(16:12:02 on main ✭)──> git push origin main                                                      ──(Mon,Feb09)─
+Enumerating objects: 6, done.
+Counting objects: 100% (6/6), done.
+Delta compression using up to 10 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (5/5), 522 bytes | 522.00 KiB/s, done.
+Total 5 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/stellaa61/AI_Health_Care.git
+   37070f1..05b70aa  main -> main
+┌─(~/03_Health_AI/AI Health Care GitHub/html/Practices)───────────────────(electrozone@adminui-MacBookPro-3:s018)─┐
+└─(16:13:59 on main ✭)──> cd ..                                                                     ──(Mon,Feb09)─
+┌─(~/03_Health_AI/AI Health Care GitHub/html)─────────────────────────────(electrozone@adminui-MacBookPro-3:s018)─┐
+└─(16:45:19 on main ✭)──> cd ..                                                                     ──(Mon,Feb09)─
+┌─(~/03_Health_AI/AI Health Care GitHub)──────────────────────────────────(electrozone@adminui-MacBookPro-3:s018)─┐
+└─(16:46:30 on main ✭)──> git status                                                                ──(Mon,Feb09)─┘
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.DS_Store
+	git_github.md/
+	html/.DS_Store
+	html/Practices/.DS_Store
+	html/Practices/Bcat.jpg
+	html/Practices/form.html
+	html/Practices/form2.html
+	html/Practices/img.html
+	html/Practices/link.html
+	html/Practices/list.html
+	html/Practices/paragraph.html
+	html/Practices/table.html
+
+nothing added to commit but untracked files present (use "git add" to track)
+┌─(~/03_Health_AI/AI Health Care GitHub)──────────────────────────────────(electrozone@adminui-MacBookPro-3:s018)─┐
+└─(16:46:36 on main ✭)──> git add "html/Practice" ":!html/Practice/hello.html"                      ──(Mon,Feb09)─┘
+zsh: event not found: html/Practice/hello.html
+┌─(~/03_Health_AI/AI Health Care GitHub)──────────────────────────────────(electrozone@adminui-MacBookPro-3:s018)─┐
+└─(16:47:12 on main ✭)──> git add "html/Practices" ":!html/Practices/hello.html"                1 ↵ ──(Mon,Feb09)─┘
+zsh: event not found: html/Practices/hello.html
+┌─(~/03_Health_AI/AI Health Care GitHub)──────────────────────────────────(electrozone@adminui-MacBookPro-3:s018)─┐
+└─(16:47:32 on main ✭)──> git commit -m "Day 1"                                                 1 ↵ ──(Mon,Feb09)─┘
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.DS_Store
+	git_github.md/
+	html/.DS_Store
+	html/Practices/.DS_Store
+	html/Practices/Bcat.jpg
+	html/Practices/form.html
+	html/Practices/form2.html
+	html/Practices/img.html
+	html/Practices/link.html
+	html/Practices/list.html
+	html/Practices/paragraph.html
+	html/Practices/table.html
+
+nothing added to commit but untracked files present (use "git add" to track)
+┌─(~/03_Health_AI/AI Health Care GitHub)──────────────────────────────────(electrozone@adminui-MacBookPro-3:s018)─┐
+└─(16:48:01 on main ✭)──> git add "html/Practices" ":!html/Practices/hello.html"                1 ↵ ──(Mon,Feb09)─┘
+zsh: event not found: html/Practices/hello.html
+┌─(~/03_Health_AI/AI Health Care GitHub)──────────────────────────────────(electrozone@adminui-MacBookPro-3:s018)─┐
+└─(16:49:28 on main ✭)──> git add html/Practices/*.html html/Practices/*.jpg                    1 ↵ ──(Mon,Feb09)─┘
+┌─(~/03_Health_AI/AI Health Care GitHub)──────────────────────────────────(electrozone@adminui-MacBookPro-3:s018)─┐
+└─(16:50:00 on main ✚ ✭)──> git commit -m "Day 1"                                                   ──(Mon,Feb09)─
+[main 4ce3248] Day 1
+ 8 files changed, 237 insertions(+)
+ create mode 100644 html/Practices/Bcat.jpg
+ create mode 100644 html/Practices/form.html
+ create mode 100644 html/Practices/form2.html
+ create mode 100644 html/Practices/img.html
+ create mode 100644 html/Practices/link.html
+ create mode 100644 html/Practices/list.html
+ create mode 100644 html/Practices/paragraph.html
+ create mode 100644 html/Practices/table.html
+┌─(~/03_Health_AI/AI Health Care GitHub)──────────────────────────────────(electrozone@adminui-MacBookPro-3:s018)─┐
+└─(16:50:10 on main ✭)──> git push origin main                                                      ──(Mon,Feb09)─
+Enumerating objects: 15, done.
+Counting objects: 100% (15/15), done.
+Delta compression using up to 10 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (12/12), 78.96 KiB | 26.32 MiB/s, done.
+Total 12 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), done.
+To https://github.com/stellaa61/AI_Health_Care.git
+   05b70aa..4ce3248  main -> main
+┌─(~/03_Health_AI/AI Health Care GitHub)──────────────────────────────────(electrozone@adminui-MacBookPro-3:s018)─┐
+└─(16:50:51 on main ✭)──>                                                                           ──(Mon,Feb09)─┘
